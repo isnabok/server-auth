@@ -7,4 +7,4 @@
 - dotenv
 - mongodb
 - mongoose
-https://youtu.be/fN25fMQZ2v0?t=1303
+https://youtu.be/fN25fMQZ2v0?t=1915
